@@ -1,0 +1,52 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    line-height: 1.6;
+    color: white;
+    background-image: url('https://images.hdqwalls.com/wallpapers/keeping-up-with-the-kardashians-season-16-4k-v6.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: rgb(35, 35, 35);
+    text-align: center;
+
+}
+
+
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.container {
+    padding: 50px;
+    background-color: black;
+    opacity: 0.8;
+    width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+a {
+    margin-top: 20px;
+}
+
+a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: green;
+    color: white;
+  }
